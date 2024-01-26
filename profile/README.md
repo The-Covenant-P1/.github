@@ -1,12 +1,4 @@
-## Hi there 👋
+# What is The Covenant? 
+The Covenant is a mentorship and connection program that allows people who have some game development skills to find other people that compliment their skills and to receive mentorship by high level mentors. 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Students learn through the roleplay of an intense high-discipline work environment to be ready for the games industry. 
